@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56364478614",
+    "project_id": "citiguide-b7b17",
+    "storage_bucket": "citiguide-b7b17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56364478614:android:36daeab47676ceea06d2b7",
+        "android_client_info": {
+          "package_name": "com.example.cityguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rCZsvRI8Lj90oSOPA2EdfBS0jNnkVUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -20,19 +20,35 @@ iOS → GoogleService-Info.plist → ios/Runner/
 Enable Firebase Authentication & Firestore / Realtime DB
 4️⃣ Run the App
 flutter run
-## 🖼️ Screenshots
+🖼️ Screenshots
+Home	Cities	Place Details	Login / Signup
 
-| Home | Cities | Place Details | Login / Signup |
-|------|--------|---------------|----------------|
-| ![Home](https://raw.githubusercontent.com/abbashasnainhabibi/flutter-CityguideApplication/main/screenshots/home.PNG) | ![Cities](https://raw.githubusercontent.com/abbashasnainhabibi/flutter-CityguideApplication/main/screenshots/cities.PNG) | ![Add Place](https://raw.githubusercontent.com/abbashasnainhabibi/flutter-CityguideApplication/main/screenshots/add-pro.PNG) | ![Login](https://raw.githubusercontent.com/abbashasnainhabibi/flutter-CityguideApplication/main/screenshots/login.PNG) |
+	
+	
+	
+Profile / Admin	Reviews	Search	Signup
 
-...
+	
+	
+	
+Edit Place	Delete Place	View Place	Google Login
 
-## 🎥 Demo Videos
+	
+	
+	
+Edit Review	View Review	Forgot Password	Mobile Admin
 
-| Feature | Video |
-|---------|-------|
-| App Overview | [City Guide Demo](https://youtu.be/S4606CQS7n4) |
+	
+	
+	
+Edit Profile	Single City	Signup City
+
+	
+	
+🎥 Demo Video
+
+City Guide Demo
+
 🛠️ Feature Highlights
 Feature	Description
 Clean UI	Responsive screens for Android & iOS

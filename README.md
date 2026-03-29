@@ -3,7 +3,7 @@
 A **Flutter-based City Guide app** with Firebase backend. Explore city places, view details, navigate via maps, and submit/read reviews.
 
 Backend handled via Firebase (Firestore / Realtime DB) with Flutter services managing all UI and logic.
-
+![Home](https://raw.githubusercontent.com/abbashasnainhabibi/flutter-CityguideApplication/main/screenshots/home.PNG)
 ---
 
 ## ⚡ Quick Start

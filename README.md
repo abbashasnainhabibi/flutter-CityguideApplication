@@ -5,29 +5,46 @@ A Flutter-based City Guide app with Firebase backend. Explore city places, view 
 Backend handled via Firebase (Firestore / Realtime DB) with Flutter services managing all UI and logic.
 
 ⚡ Quick Start
-Clone Repository
+1️⃣ Clone Repository
 git clone https://github.com/abbashasnainhabibi/flutter-CityguideApplication.git
 cd flutter-CityguideApplication
-Install Dependencies
+2️⃣ Install Dependencies
 flutter pub get
-Configure Firebase
+3️⃣ Configure Firebase
 Android → google-services.json → android/app/
 iOS → GoogleService-Info.plist → ios/Runner/
 Enable Firebase Authentication & Firestore / Realtime DB
-Run the App
+4️⃣ Run the App
 flutter run
 🖼️ Screenshots
-Home	Cities	Place Details	Login / Signup	
+Home	Cities	Place Details	Login / Signup
+
+	
+	
+	
 Profile / Admin	Reviews	Search	Signup
+
+	
+	
+	
 Edit Place	Delete Place	View Place	Google Login
+
+	
+	
+	
 Edit Review	View Review	Forgot Password	Mobile Admin
+
+	
+	
+	
 Edit Profile	Single City	Signup City	-
--
+
+	
+	
+	-
 🎥 Demo Videos
 Feature	Video
 App Overview	City Guide Demo
-
-Optional Feature Walkthrough	Add unlisted video link
 🛠️ Feature Highlights
 Feature	Description
 Clean UI	Responsive screens for Android & iOS

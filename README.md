@@ -1,11 +1,15 @@
-📍 Flutter City Guide Application
+# 📍 Flutter City Guide Application
 
-A Flutter-based City Guide app with Firebase backend. Explore city places, view details, navigate via maps, and submit/read reviews.
+A **Flutter-based City Guide app** with Firebase backend. Explore city places, view details, navigate via maps, and submit/read reviews.
 
 Backend handled via Firebase (Firestore / Realtime DB) with Flutter services managing all UI and logic.
 
-⚡ Quick Start
-1️⃣ Clone Repository
+---
+
+## ⚡ Quick Start
+
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/abbashasnainhabibi/flutter-CityguideApplication.git
 cd flutter-CityguideApplication
 2️⃣ Install Dependencies

@@ -17,14 +17,12 @@ Enable Firebase Authentication & Firestore / Realtime DB
 Run the App
 flutter run
 🖼️ Screenshots
-Home Screen	Map Screen	Place Details	Login / Register
-
-	
-	
-	
-
-Replace image links with your actual screenshots
-
+Home	Cities	Place Details	Login / Signup	
+Profile / Admin	Reviews	Search	Signup
+Edit Place	Delete Place	View Place	Google Login
+Edit Review	View Review	Forgot Password	Mobile Admin
+Edit Profile	Single City	Signup City	-
+-
 🎥 Demo Videos
 Feature	Video
 App Overview	City Guide Demo
